@@ -14,7 +14,7 @@
   </properties>
   
   
-  <Build>
+  <build>
    <plugins>
 	<plugin>
       <groupId>org.jacoco</groupId>
@@ -42,7 +42,7 @@
       </plugin>
    
     </plugins>
-   </Build>
+   </build>
 
  
 
